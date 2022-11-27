@@ -406,7 +406,7 @@ body{
 
 .views{
     background-color: rgba(0,0,0,0.5);
-    background-image: url('/assets/images/map.jpeg');
+    background-image: url('assets/images/map.jpeg');
     background-repeat: no-repeat;
     background-size: cover;
     display: flex;
