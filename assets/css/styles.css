@@ -191,7 +191,7 @@ body{
 /* SECTION ONE LANDING PAGE */
 
 .main .landing_page{
-  height: 100vh;
+  /* height: 100vh; */
 
 }
 .main .mobile_landing_pg_img{
@@ -202,6 +202,11 @@ body{
    
 }
 @media(width>=800px){
+    .main .landing_page{
+        height: 100vh;
+      
+      }
+      
    .main .mobile_landing_pg_img{
         display: none;
     }
