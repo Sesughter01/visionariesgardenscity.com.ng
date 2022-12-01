@@ -255,7 +255,7 @@ body{
  #btn_tour-container{
     /* position: relative; */
    
-    transform:translateY(-150%);
+    transform:translateY(-250%);
  }
 
  .btn_tour i{
