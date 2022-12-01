@@ -662,4 +662,9 @@ body{
         padding-block: 1rem;
         
     }
+    #btn_tour-container{
+        /* position: relative; */
+       
+        transform:translateY(-150%);
+     }
 }
